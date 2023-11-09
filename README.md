@@ -1,5 +1,5 @@
 # OpinionPolarisation
-This code produces the figures in the manuscript entitled "A Quantum-Mechanical Approach to Asymmetric Opinion Polarisation".
+This code produces the figures presented in the manuscript entitled "A Quantum-Mechanical Approach to Asymmetric Opinion Polarisation".
 
 Please see the desription in the main_code_paper.m for more details.
 
